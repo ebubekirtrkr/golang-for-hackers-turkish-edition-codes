@@ -1,2 +1,2 @@
-# golang-for-hackers-turkish-edition-codes
-Golang for  Hackers Turkish Edition yayınlarında yazdığım kodlar
+# Go4HackersTurkish
+[Golang for Hackers Turkish Edition](https://github.com/mdisec/golang-for-hackers-turkish-edition) yayınlarında yazdığım kodlar
