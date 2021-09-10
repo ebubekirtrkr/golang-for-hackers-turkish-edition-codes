@@ -1,8 +1,11 @@
-İlk ders linkler:
+# run
+`go run main.go`
+
+# İlk ders linkler:
 * [twittch](https://www.twitch.tv/videos/1143685482)
 * [youtube](https://www.youtube.com/watch?v=jR683fqYVOo)
 
-Bu derstte işlenen konular:
+# Bu derstte işlenen konular:
 * [Introduction](#installation)
 	* [Language characteristics](#)
 	* [What is Go good at it?](#)
